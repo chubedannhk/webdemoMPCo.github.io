@@ -1,0 +1,54 @@
+{
+    "content_intruduce": "Với mục tiêu phục vụ khách hàng tốt về chất lượng, về công nghệ thiết bị và những giải pháp hiệu quả của thiết bị điện, MPCo., tự hào đã là nhà đại diện chính thức của tập đoàn Cooper Industrial từ năm 1996 đến 2012 và đang tiếp tục là nhà đại diện chính thức của tập đoàn Eaton Industries sau khi sự sát nhập lớn của hai tập đoàn lớn hàng đầu về thiết bị điện và năng lượng tại Mỹ, tập đoàn Cooper Industrial đã trở thành tập đoàn Eaton’s Cooper và nay thống nhất tên gọi tập đoàn Eaton Industries.",
+
+    "content_business_areas":"Cùng với tập đoàn Eaton-Cooper Industries cùng với Hãng Survalent và Hãng Hubbell Power Systems, chúng tôi đã đào tạo được một đội ngũ chuyên viên kỹ thuật giàu kinh nghiệm, luôn luôn sẵn sàng đáp ứng các nhu cầu của quý Khách hàng về thông tin sản phẩm, tư vấn kỹ thuật, bảo hành và bảo trì các sản phẩm.",
+
+    "content_title_h1_intruduce":"Giới thiệu",
+    "content_title_h1_intruduce_MpCo":"công ty mp.co",
+    "content_title_h1_strategic_project":"dự án chiến lược",
+    "content_title_h1_Field":"Lĩnh Vực",
+    "content_title_h1_Business":"Kinh Doanh",
+    "content_title_h1_news":"tin tức",
+
+    "content_seemore":"Xem Thêm",
+    "content_title_startup":"Thành lập",
+    "content_title_project":"Dự Án",
+    "content_title_customer":"Khách Hàng",
+    "content_title_product":"Sản Phẩm",
+    "content_field_title_item1":"Cung Cấp",
+    "content_field_title_item2":"Công nghệ",
+    "content_field_title_item3":"title item",
+    "content_field_title_item4":"item detail",
+
+    "content_intruduce_US": "With the goal of providing our customers with the best equipment technology and effective solutions for electrical equipment, MPCO., LTD  is proud to have been the official representative of Cooper Industrial Group from 1996 to 2012. MPCO., LTD continues to serve as the main distributor for  Eaton Industries after their acquisition of Cooper Industrial Group in the electrical equipment and energy sector in the United States. ",
+
+    "content_business_areas_US":"Together with Eaton’s Cooper, Survalent Technology, and Hubbell Power Systems, we have trained a team of experienced technicians who are always ready to meet your information needs with product information, technical advice, warranty, and maintenance of products.",
+
+    "content_title_h1_intruduce_US":"Introduce",
+    "content_title_h1_intruduce_MpCoe_US":"company mp.co",
+    "content_title_h1_strategic_project_US":"strategic project",
+    "content_title_h1_Field_US":"Field",
+    "content_title_h1_Business_US":"Business",
+    "content_title_h1_news_US":"News",
+
+    "content_seemore_US":"See More",
+    "content_title_startup_US":"establishment",
+    "content_title_project_US":"projects",
+    "content_title_customer_US":"customers",
+    "content_title_product_US":"products",
+    "content_field_title_item1_US":"provide",
+    "content_field_title_item2_US":" technology",
+    "content_field_title_item3_US":"title items",
+    "content_field_title_item4_US":"item details",
+    "number_start_startup": 0,
+    "number_start_project":4900,
+    "number_start_customer":400,
+    "number_start_product": 500,
+
+    "number_startup": 27,
+    "number_project":5000,
+    "number_customer":500,
+    "number_product":600,
+    "number_sign": "+"
+
+}

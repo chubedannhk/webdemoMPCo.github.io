@@ -1,0 +1,8 @@
+/* > PC low resolution */
+@media (min-width: 1380px){
+    .item_new1,
+    .item_new2{
+        height: 500px; 
+    }
+
+}
